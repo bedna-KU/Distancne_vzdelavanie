@@ -16,9 +16,9 @@ https://github.com/bigbluebutton/bigbluebutton - funguje výborne
 
 https://element.io/ - funguje OK
 
-https://nextcloud.com/talk/ - neodskúšané
+https://nextcloud.com/talk/ - neodskúšané (Nainštalované, ale skúšal som len sám)
 
-https://github.com/wireapp - neodskúšané
+https://github.com/wireapp - neodskúšané (Súšal som len sám)
 
 ## Len hlas + chat
 https://github.com/mumble-voip/mumble - len hlas a chat, funguje výborne
