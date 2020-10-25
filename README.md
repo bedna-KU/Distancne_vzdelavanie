@@ -1,4 +1,4 @@
-# Distancne_vzdelavanie
+# Dištančné_vzdelávanie
 
 ## Priama komunikácia (p2p)
 https://zipcall.io/ - funguje výborne
