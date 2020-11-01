@@ -24,4 +24,4 @@ https://github.com/wireapp - neodskúšané (Súšal som len sám)
 https://github.com/mumble-voip/mumble - len hlas a chat, funguje výborne
 
 ## Vyučovanie
-https://github.com/moodle/moodle - neodskúšané
+https://github.com/moodle/moodle - vytváranie online kurzov
